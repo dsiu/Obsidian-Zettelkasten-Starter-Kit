@@ -25,12 +25,17 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 - Select the unzipped folder as a vault in Obsidian
 - Read book from [Sönke Ahrens](https://www.soenkeahrens.de/en/takesmartnotes)
 - Explore Starter Kit
+- Learn to use [templates](https://github.com/groepl/Obsidian-Templates?tab=readme-ov-file#list-of-templates)
 - Enjoy
 
 ## Workflow
 <img src="/Starter-Kit/Visuals/IMG_0843.png" width="700" />
 
 Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahrens.de/en/takesmartnotes).
+
+## Literature Map
+<img src="/Starter-Kit/Visuals/Zettelkasten_LitMap_2024-08-04.png" width="700" />
+Download PDF [Zettelkasten Literature Map](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit/blob/b838fbf960d997a4c74c63e91c3982dfdb38edef/Starter-Kit/Assets/Zettelkasten_LitMap_2024-08-04.pdf)
 
 ## FAQ
 - [Where can I find the latest updates from Obsidian-Templates for Zettelkasten?](https://github.com/groepl/Obsidian-Templates)
