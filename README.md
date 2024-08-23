@@ -40,6 +40,7 @@ Page numbers reference to book [How to Take Smart Notes](https://www.soenkeahren
 <img src="/Starter-Kit/Visuals/Zettelkasten_Ontology.png" width="700" />
 
 ## Ontology Map
+<img src="/Starter-Kit/Visuals/Zettelkasten_Ontology.png" width="700" />
 
 
 ## FAQ
